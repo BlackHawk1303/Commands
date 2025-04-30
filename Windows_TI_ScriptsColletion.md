@@ -87,7 +87,7 @@ El repositorio está dividido en tres categorías principales:
 
 3. **Ver Estado del Repositorio Local**  
    Muestra el estado actual de los archivos en el repositorio local.  
-   [Comando Git](Git/Comando3-Ver-Estado.ps1)
+   .\Comando Git](Git/Comando3-Ver-Estado.ps1
 
 ## Instrucciones para Ejecutar los Scripts
 
