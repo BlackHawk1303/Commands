@@ -176,7 +176,7 @@ git restore archivo.txt
 ### Ignorar archivos (usar .gitignore)
 # Crear archivo .gitignore en raíz del proyecto
 # Ejemplo:
-# *.log
-# /temp/
-# secret.txt
+*.log
+/temp/
+secret.txt
 
