@@ -80,17 +80,17 @@ El repositorio está dividido en tres categorías principales:
 1. **Verificar Configuración Global del Usuario**  
    Verifica la configuración global del usuario en Git.
    ```powershell
-   Comando Git](Git/Comando1-Verificar-Config-Usuario.ps1
+   Git/Comando1-Verificar-Config-Usuario.ps1
 
 3. **Clonar Repositorio**  
    Clona un repositorio de Git.
    ```powershell
-   Comando Git](Git/Comando2-Clonar-Repositorio.ps1
+   Git/Comando2-Clonar-Repositorio.ps1
 
 4. **Ver Estado del Repositorio Local**  
    Muestra el estado actual de los archivos en el repositorio local.
    ```powershell
-   Comando Git](Git/Comando3-Ver-Estado.ps1
+   Git/Comando3-Ver-Estado.ps1
 
 ## Instrucciones para Ejecutar los Scripts
 
